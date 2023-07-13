@@ -17,7 +17,7 @@ int main()
 
     int i = 0, j = 0, k = 0;
 
-    printf("---Etapa di treinamento---\n");
+    printf("---Etapa des treinamento---\n");
 
     while (1)
     {
